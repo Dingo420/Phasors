@@ -7,7 +7,7 @@ This is a template i made for doing electrical 3-phase calculations
 
 3)Proffit??
 
-#TODO
+# TODO
 
 Change Nutral dot color to white, add ground.
 
