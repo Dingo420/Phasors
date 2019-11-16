@@ -11,6 +11,8 @@ This is a template i made for doing electrical 3-phase calculations
 
 Change Nutral dot color to white, add ground.
 
-label line and phase voltage
+label line and phase voltage?
+
+space lines more for voltages?
 
 Contrast?
