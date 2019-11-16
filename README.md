@@ -11,6 +11,8 @@ This is a template i made for doing electrical 3-phase calculations
 
 tuck delta a phase line under dot
 
+dots on lines to dela/wye
+
 Change Nutral dot color to white, add ground.
 
 label line and phase voltage?
