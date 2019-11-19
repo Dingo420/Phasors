@@ -7,16 +7,14 @@ This is a template i made for doing electrical 3-phase calculations
 
 3)Proffit??
 
+
+# Version 2 is out!
+
+Fixed Dots and colors and spacing. Removed one Phasor for more room and increased space inbetween lines.
+
+
+added labels
+
 # TODO
-
-tuck delta a phase line under dot
-
-dots on lines to dela/wye
-
-Change Nutral dot color to white, add ground.
-
-label line and phase voltage?
-
-space lines more for voltages?
 
 Contrast?
